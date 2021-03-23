@@ -1,0 +1,14 @@
+C:\Users\Girjesh kumar\source\repos\UnitTestEx1\UnitTestEx1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Girjesh kumar\source\repos\UnitTestEx1\UnitTestEx1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Girjesh kumar\source\repos\UnitTestEx1\UnitTestEx1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Girjesh kumar\source\repos\UnitTestEx1\UnitTestEx1\bin\Debug\UnitTestEx1.dll
+C:\Users\Girjesh kumar\source\repos\UnitTestEx1\UnitTestEx1\bin\Debug\UnitTestEx1.pdb
+C:\Users\Girjesh kumar\source\repos\UnitTestEx1\UnitTestEx1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Girjesh kumar\source\repos\UnitTestEx1\UnitTestEx1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Girjesh kumar\source\repos\UnitTestEx1\UnitTestEx1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Girjesh kumar\source\repos\UnitTestEx1\UnitTestEx1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Girjesh kumar\source\repos\UnitTestEx1\UnitTestEx1\obj\Debug\UnitTestEx1.csprojAssemblyReference.cache
+C:\Users\Girjesh kumar\source\repos\UnitTestEx1\UnitTestEx1\obj\Debug\UnitTestEx1.csproj.CoreCompileInputs.cache
+C:\Users\Girjesh kumar\source\repos\UnitTestEx1\UnitTestEx1\obj\Debug\UnitTestEx1.csproj.CopyComplete
+C:\Users\Girjesh kumar\source\repos\UnitTestEx1\UnitTestEx1\obj\Debug\UnitTestEx1.dll
+C:\Users\Girjesh kumar\source\repos\UnitTestEx1\UnitTestEx1\obj\Debug\UnitTestEx1.pdb
